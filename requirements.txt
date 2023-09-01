@@ -5,6 +5,7 @@ pyrogram>=2.0.30
  marshmallow==3.14.1 
  umongo==3.0.1 
  requests 
+ git+https://github.com/Joelkb/cinemagoer 
  bs4 
  shortzy 
  datetime 
@@ -26,7 +27,8 @@ youtube-dl
 requests 
   
  #---imdb---# 
- cinemagoer==2023.5.1 
+cinemagoer==2023.3.19
+
   
  #---others----# 
  opencv-python-headless==4.7.0.68 
